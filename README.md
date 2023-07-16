@@ -96,7 +96,7 @@ Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for more details 
 
 ## License
 
-Jetchain is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the software as permitted by the license.
+Jetchain is licensed under the [MIT License](https://github.com/KOSASIH/Jetchain/blob/main/LICENSE). Feel free to use, modify, and distribute the software as permitted by the license.
 
 ---
 Thank you for choosing Jetchain! If you have any questions or need further assistance, please reach out to our support team at support@jetchain.com.
