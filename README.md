@@ -95,7 +95,7 @@ We welcome contributions from the community to improve Jetchain. If you'd like t
 
 5. Open a pull request in the Jetchain repository, describing your changes and their benefits.
 
-Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for more details on the development process and code standards.
+Please refer to the [Contribution Guidelines](https://github.com/KOSASIH/.github/blob/master/CONTRIBUTING.md) for more details on the development process and code standards.
 
 ## License
 
