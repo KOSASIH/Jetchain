@@ -1,4 +1,4 @@
-
+[![Codacy Security Scan](https://github.com/KOSASIH/Jetchain/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/Jetchain/actions/workflows/codacy.yml)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Jetchain/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Jetchain/tree/main)
 
 # Jetchain - Logistics and Supply Chain Management
