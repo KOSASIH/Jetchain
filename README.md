@@ -1,3 +1,4 @@
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/KOSASIH/Jetchain/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/KOSASIH/Jetchain/actions/workflows/jekyll-gh-pages.yml)
 [![Greetings](https://github.com/KOSASIH/Jetchain/actions/workflows/greetings.yml/badge.svg)](https://github.com/KOSASIH/Jetchain/actions/workflows/greetings.yml)
 [![Codacy Security Scan](https://github.com/KOSASIH/Jetchain/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/Jetchain/actions/workflows/codacy.yml)
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Jetchain/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Jetchain/tree/main)
