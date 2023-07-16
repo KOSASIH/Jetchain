@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Jetchain/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Jetchain/tree/main)
+
 # Jetchain - Logistics and Supply Chain Management
 
 Jetchain is a comprehensive microservices-based platform designed to enhance the efficiency of logistics and supply chain management systems. It leverages the power of microservices architecture to enable real-time tracking, inventory management, route optimization, and demand forecasting. This README file provides an overview of Jetchain, its features, installation instructions, and usage guidelines.
