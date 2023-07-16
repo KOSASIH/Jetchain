@@ -1,4 +1,4 @@
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/KOSASIH/Jetchain/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/KOSASIH/Jetchain/actions/workflows/jekyll-gh-pages.yml)
+
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Jetchain/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Jetchain/tree/main)
 
 # Jetchain - Logistics and Supply Chain Management
