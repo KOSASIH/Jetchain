@@ -38,7 +38,7 @@ To install and set up Jetchain, follow these steps:
 1. Clone the Jetchain repository from GitHub:
 
    ```shell
-   git clone https://github.com/jetchain/jetchain.git
+   git clone https://github.com/KOSASIH/jetchain.git
    ```
 
 2. Install the required dependencies using a package manager like npm or yarn:
